@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@react-native-picker/picker": "^2.11.1",
+    "expo": "^53.0.17"
+  },
+  "devDependencies": {
+    "@react-native-community/cli": "^18.0.0"
+  }
+}

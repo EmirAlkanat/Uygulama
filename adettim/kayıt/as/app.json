@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Period Tracker",
+    "slug": "period-tracker",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#FF6B9D"
+      }
+    }
+  }
+} 
