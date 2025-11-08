@@ -1,0 +1,17 @@
+/Users/emiralkanat/RiderProjects/if else/banka sistemi/bin/Debug/net8.0/banka sistemi
+/Users/emiralkanat/RiderProjects/if else/banka sistemi/bin/Debug/net8.0/banka sistemi.deps.json
+/Users/emiralkanat/RiderProjects/if else/banka sistemi/bin/Debug/net8.0/banka sistemi.runtimeconfig.json
+/Users/emiralkanat/RiderProjects/if else/banka sistemi/bin/Debug/net8.0/banka sistemi.dll
+/Users/emiralkanat/RiderProjects/if else/banka sistemi/bin/Debug/net8.0/banka sistemi.pdb
+/Users/emiralkanat/RiderProjects/if else/banka sistemi/obj/Debug/net8.0/banka sistemi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emiralkanat/RiderProjects/if else/banka sistemi/obj/Debug/net8.0/banka sistemi.AssemblyInfoInputs.cache
+/Users/emiralkanat/RiderProjects/if else/banka sistemi/obj/Debug/net8.0/banka sistemi.AssemblyInfo.cs
+/Users/emiralkanat/RiderProjects/if else/banka sistemi/obj/Debug/net8.0/banka sistemi.csproj.CoreCompileInputs.cache
+/Users/emiralkanat/RiderProjects/if else/banka sistemi/obj/Debug/net8.0/banka sistemi.dll
+/Users/emiralkanat/RiderProjects/if else/banka sistemi/obj/Debug/net8.0/refint/banka sistemi.dll
+/Users/emiralkanat/RiderProjects/if else/banka sistemi/obj/Debug/net8.0/banka sistemi.pdb
+/Users/emiralkanat/RiderProjects/if else/banka sistemi/obj/Debug/net8.0/banka sistemi.genruntimeconfig.cache
+/Users/emiralkanat/RiderProjects/if else/banka sistemi/obj/Debug/net8.0/ref/banka sistemi.dll
+/Users/emiralkanat/RiderProjects/if else/banka sistemi/bin/Debug/net8.0/NuGet.Frameworks.dll
+/Users/emiralkanat/RiderProjects/if else/banka sistemi/obj/Debug/net8.0/banka sistemi.csproj.AssemblyReference.cache
+/Users/emiralkanat/RiderProjects/if else/banka sistemi/obj/Debug/net8.0/banka sistemi.csproj.CopyComplete
